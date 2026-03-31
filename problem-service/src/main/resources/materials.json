@@ -1,0 +1,1390 @@
+[
+  {
+    "title": "Programming Fundamentals: Basics & Syntax (Java)",
+    "category": "Fundamentals",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 1",
+      "Java"
+    ],
+    "difficulty": "Level 1",
+    "roadmapLevel": 1,
+    "shortDescription": "Master the absolute building blocks of programming. Learn how data is stored, manipulated, and accessed across modern environments.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 1 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Programming Fundamentals: Basics & Syntax is critical for any Java engineer.",
+    "keyTopics": [
+      "Variables & Data Types",
+      "Operators",
+      "Input / Output",
+      "Type Casting"
+    ],
+    "deepExplanation": "This module provides a deep dive into Programming Fundamentals: Basics & Syntax, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Variables & Data Types",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Core Programming: Control Flow & Logic (Java)",
+    "category": "Fundamentals",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 2",
+      "Java"
+    ],
+    "difficulty": "Level 2",
+    "roadmapLevel": 2,
+    "shortDescription": "Move beyond static code. Learn to make decisions, repeat operations, and structure your logic into reusable functions.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 2 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Core Programming: Control Flow & Logic is critical for any Java engineer.",
+    "keyTopics": [
+      "If / Else & Switch",
+      "Loops (for, while, do-while)",
+      "Break / Continue",
+      "Functions & Recursion"
+    ],
+    "deepExplanation": "This module provides a deep dive into Core Programming: Control Flow & Logic, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of If / Else & Switch",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Data Structures: Linear & Non-Linear mastery (Java)",
+    "category": "DSA",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 3",
+      "Java"
+    ],
+    "difficulty": "Level 3",
+    "roadmapLevel": 3,
+    "shortDescription": "The backbone of high-performance engineering. Master the organization, retrieval, and storage of data in memory.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 3 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Data Structures: Linear & Non-Linear mastery is critical for any Java engineer.",
+    "keyTopics": [
+      "1D / 2D Arrays",
+      "Linked List (Singly, Doubly)",
+      "Stack & Queue",
+      "Trees (Binary, BST)",
+      "Graphs (BFS, DFS)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Data Structures: Linear & Non-Linear mastery, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of 1D / 2D Arrays",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Algorithmic Patterns: The Interview Core (Java)",
+    "category": "DSA",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 4",
+      "Java"
+    ],
+    "difficulty": "Level 4",
+    "roadmapLevel": 4,
+    "shortDescription": "Master the patterns that define the top 1% of engineers. Solve complex problems using optimized strategy rather than brute force.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 4 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Algorithmic Patterns: The Interview Core is critical for any Java engineer.",
+    "keyTopics": [
+      "Two Pointers & Sliding Window",
+      "Binary Search",
+      "Recursion & Backtracking",
+      "Greedy & Dynamic Programming"
+    ],
+    "deepExplanation": "This module provides a deep dive into Algorithmic Patterns: The Interview Core, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Two Pointers & Sliding Window",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Advanced Mastery: Graphs, Tries & Segment Trees (Java)",
+    "category": "Advanced",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 5",
+      "Java"
+    ],
+    "difficulty": "Level 5",
+    "roadmapLevel": 5,
+    "shortDescription": "Push the limits of scalability. Level 5 covers advanced retrieval architectures used at global scale.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 5 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Advanced Mastery: Graphs, Tries & Segment Trees is critical for any Java engineer.",
+    "keyTopics": [
+      "Dijkstra & Floyd-Warshall",
+      "Trie (Prefix Tree)",
+      "Segment Tree & Range Queries",
+      "Union-Find (DSU)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Advanced Mastery: Graphs, Tries & Segment Trees, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Dijkstra & Floyd-Warshall",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Backend Engineering: Spring Boot & Architecture (Java)",
+    "category": "Backend",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 6",
+      "Java"
+    ],
+    "difficulty": "Level 6",
+    "roadmapLevel": 6,
+    "shortDescription": "Master the world of enterprise development. Build robust, secure, and scalable RESTful microservices with Java and Spring Boot.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 6 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Backend Engineering: Spring Boot & Architecture is critical for any Java engineer.",
+    "keyTopics": [
+      "REST APIs & HTTP Methods",
+      "Spring Boot Controllers & Services",
+      "SQL (Joins, Indexing)",
+      "JWT & Sessions"
+    ],
+    "deepExplanation": "This module provides a deep dive into Backend Engineering: Spring Boot & Architecture, specifically tailored for the Java language context.",
+    "codeExample": "@RestController\n@RequestMapping(\"/api\")\npublic class Controller {\n  @GetMapping(\"/greet\")\n  public String greet() { return \"Hello!\"; }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of REST APIs & HTTP Methods",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "System Design: Scalability & Architecture (Java)",
+    "category": "Architecture",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 7",
+      "Java"
+    ],
+    "difficulty": "Level 7",
+    "roadmapLevel": 7,
+    "shortDescription": "Design for millions. Learn how to architect systems that are fault-tolerant, horizontally scalable, and ultra-performant.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 7 of the Java Mastery Path.",
+    "coreConcepts": "Mastering System Design: Scalability & Architecture is critical for any Java engineer.",
+    "keyTopics": [
+      "Scalability & Caching",
+      "Load Balancing & Rate Limiting",
+      "Microservices basics"
+    ],
+    "deepExplanation": "This module provides a deep dive into System Design: Scalability & Architecture, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Scalability & Caching",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Full-Stack: Modern Web & Mobile UI (Java)",
+    "category": "Frontend",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 8",
+      "Java"
+    ],
+    "difficulty": "Level 8",
+    "roadmapLevel": 8,
+    "shortDescription": "Build the interfaces that connect users to your data. Master React for web and Flutter for high-performance mobile apps.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 8 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Full-Stack: Modern Web & Mobile UI is critical for any Java engineer.",
+    "keyTopics": [
+      "HTML / CSS / JS Mastery",
+      "React Hooks & State",
+      "Flutter basics for Mobile"
+    ],
+    "deepExplanation": "This module provides a deep dive into Full-Stack: Modern Web & Mobile UI, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of HTML / CSS / JS Mastery",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Professional Workflow: Git, Test & Deploy (Java)",
+    "category": "Engineering",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 9",
+      "Java"
+    ],
+    "difficulty": "Level 9",
+    "roadmapLevel": 9,
+    "shortDescription": "Ship production-ready code. Learn the professional tools and workflows required to collaborate on large-scale engineering teams.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 9 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Professional Workflow: Git, Test & Deploy is critical for any Java engineer.",
+    "keyTopics": [
+      "Git Branching & Version Control",
+      "Unit Testing basics",
+      "Deployment & CI/CD"
+    ],
+    "deepExplanation": "This module provides a deep dive into Professional Workflow: Git, Test & Deploy, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Git Branching & Version Control",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Capstone: Production Projects Mastery (Java)",
+    "category": "Projects",
+    "language": "Java",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 10",
+      "Java"
+    ],
+    "difficulty": "Level 10",
+    "roadmapLevel": 10,
+    "shortDescription": "The ultimate test of your skills. Build end-to-end industry-level projects that showcase your mastery of the entire stack.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 10 of the Java Mastery Path.",
+    "coreConcepts": "Mastering Capstone: Production Projects Mastery is critical for any Java engineer.",
+    "keyTopics": [
+      "Coding Platform implementation",
+      "E-commerce Architecture",
+      "URL Shortener scalability"
+    ],
+    "deepExplanation": "This module provides a deep dive into Capstone: Production Projects Mastery, specifically tailored for the Java language context.",
+    "codeExample": "public class Main {\n  public static void main(String[] args) {\n    System.out.println(\"Hello CodeFlow!\");\n  }\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Coding Platform implementation",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Programming Fundamentals: Basics & Syntax (Python)",
+    "category": "Fundamentals",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 1",
+      "Python"
+    ],
+    "difficulty": "Level 1",
+    "roadmapLevel": 1,
+    "shortDescription": "Master the absolute building blocks of programming. Learn how data is stored, manipulated, and accessed across modern environments.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 1 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Programming Fundamentals: Basics & Syntax is critical for any Python engineer.",
+    "keyTopics": [
+      "Variables & Data Types",
+      "Operators",
+      "Input / Output",
+      "Type Casting"
+    ],
+    "deepExplanation": "This module provides a deep dive into Programming Fundamentals: Basics & Syntax, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Variables & Data Types",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Core Programming: Control Flow & Logic (Python)",
+    "category": "Fundamentals",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 2",
+      "Python"
+    ],
+    "difficulty": "Level 2",
+    "roadmapLevel": 2,
+    "shortDescription": "Move beyond static code. Learn to make decisions, repeat operations, and structure your logic into reusable functions.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 2 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Core Programming: Control Flow & Logic is critical for any Python engineer.",
+    "keyTopics": [
+      "If / Else & Switch",
+      "Loops (for, while, do-while)",
+      "Break / Continue",
+      "Functions & Recursion"
+    ],
+    "deepExplanation": "This module provides a deep dive into Core Programming: Control Flow & Logic, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of If / Else & Switch",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Data Structures: Linear & Non-Linear mastery (Python)",
+    "category": "DSA",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 3",
+      "Python"
+    ],
+    "difficulty": "Level 3",
+    "roadmapLevel": 3,
+    "shortDescription": "The backbone of high-performance engineering. Master the organization, retrieval, and storage of data in memory.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 3 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Data Structures: Linear & Non-Linear mastery is critical for any Python engineer.",
+    "keyTopics": [
+      "1D / 2D Arrays",
+      "Linked List (Singly, Doubly)",
+      "Stack & Queue",
+      "Trees (Binary, BST)",
+      "Graphs (BFS, DFS)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Data Structures: Linear & Non-Linear mastery, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of 1D / 2D Arrays",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Algorithmic Patterns: The Interview Core (Python)",
+    "category": "DSA",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 4",
+      "Python"
+    ],
+    "difficulty": "Level 4",
+    "roadmapLevel": 4,
+    "shortDescription": "Master the patterns that define the top 1% of engineers. Solve complex problems using optimized strategy rather than brute force.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 4 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Algorithmic Patterns: The Interview Core is critical for any Python engineer.",
+    "keyTopics": [
+      "Two Pointers & Sliding Window",
+      "Binary Search",
+      "Recursion & Backtracking",
+      "Greedy & Dynamic Programming"
+    ],
+    "deepExplanation": "This module provides a deep dive into Algorithmic Patterns: The Interview Core, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Two Pointers & Sliding Window",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Advanced Mastery: Graphs, Tries & Segment Trees (Python)",
+    "category": "Advanced",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 5",
+      "Python"
+    ],
+    "difficulty": "Level 5",
+    "roadmapLevel": 5,
+    "shortDescription": "Push the limits of scalability. Level 5 covers advanced retrieval architectures used at global scale.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 5 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Advanced Mastery: Graphs, Tries & Segment Trees is critical for any Python engineer.",
+    "keyTopics": [
+      "Dijkstra & Floyd-Warshall",
+      "Trie (Prefix Tree)",
+      "Segment Tree & Range Queries",
+      "Union-Find (DSU)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Advanced Mastery: Graphs, Tries & Segment Trees, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Dijkstra & Floyd-Warshall",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Backend Engineering: Spring Boot & Architecture (Python)",
+    "category": "Backend",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 6",
+      "Python"
+    ],
+    "difficulty": "Level 6",
+    "roadmapLevel": 6,
+    "shortDescription": "Master the world of enterprise development. Build robust, secure, and scalable RESTful microservices with Java and Spring Boot.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 6 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Backend Engineering: Spring Boot & Architecture is critical for any Python engineer.",
+    "keyTopics": [
+      "REST APIs & HTTP Methods",
+      "Spring Boot Controllers & Services",
+      "SQL (Joins, Indexing)",
+      "JWT & Sessions"
+    ],
+    "deepExplanation": "This module provides a deep dive into Backend Engineering: Spring Boot & Architecture, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of REST APIs & HTTP Methods",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "System Design: Scalability & Architecture (Python)",
+    "category": "Architecture",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 7",
+      "Python"
+    ],
+    "difficulty": "Level 7",
+    "roadmapLevel": 7,
+    "shortDescription": "Design for millions. Learn how to architect systems that are fault-tolerant, horizontally scalable, and ultra-performant.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 7 of the Python Mastery Path.",
+    "coreConcepts": "Mastering System Design: Scalability & Architecture is critical for any Python engineer.",
+    "keyTopics": [
+      "Scalability & Caching",
+      "Load Balancing & Rate Limiting",
+      "Microservices basics"
+    ],
+    "deepExplanation": "This module provides a deep dive into System Design: Scalability & Architecture, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Scalability & Caching",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Full-Stack: Modern Web & Mobile UI (Python)",
+    "category": "Frontend",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 8",
+      "Python"
+    ],
+    "difficulty": "Level 8",
+    "roadmapLevel": 8,
+    "shortDescription": "Build the interfaces that connect users to your data. Master React for web and Flutter for high-performance mobile apps.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 8 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Full-Stack: Modern Web & Mobile UI is critical for any Python engineer.",
+    "keyTopics": [
+      "HTML / CSS / JS Mastery",
+      "React Hooks & State",
+      "Flutter basics for Mobile"
+    ],
+    "deepExplanation": "This module provides a deep dive into Full-Stack: Modern Web & Mobile UI, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of HTML / CSS / JS Mastery",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Professional Workflow: Git, Test & Deploy (Python)",
+    "category": "Engineering",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 9",
+      "Python"
+    ],
+    "difficulty": "Level 9",
+    "roadmapLevel": 9,
+    "shortDescription": "Ship production-ready code. Learn the professional tools and workflows required to collaborate on large-scale engineering teams.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 9 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Professional Workflow: Git, Test & Deploy is critical for any Python engineer.",
+    "keyTopics": [
+      "Git Branching & Version Control",
+      "Unit Testing basics",
+      "Deployment & CI/CD"
+    ],
+    "deepExplanation": "This module provides a deep dive into Professional Workflow: Git, Test & Deploy, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Git Branching & Version Control",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Capstone: Production Projects Mastery (Python)",
+    "category": "Projects",
+    "language": "Python",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 10",
+      "Python"
+    ],
+    "difficulty": "Level 10",
+    "roadmapLevel": 10,
+    "shortDescription": "The ultimate test of your skills. Build end-to-end industry-level projects that showcase your mastery of the entire stack.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 10 of the Python Mastery Path.",
+    "coreConcepts": "Mastering Capstone: Production Projects Mastery is critical for any Python engineer.",
+    "keyTopics": [
+      "Coding Platform implementation",
+      "E-commerce Architecture",
+      "URL Shortener scalability"
+    ],
+    "deepExplanation": "This module provides a deep dive into Capstone: Production Projects Mastery, specifically tailored for the Python language context.",
+    "codeExample": "def solve():\n    print(\"Mastering Level \" + str(level))\n\nsolve()",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Coding Platform implementation",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Programming Fundamentals: Basics & Syntax (C++)",
+    "category": "Fundamentals",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 1",
+      "C++"
+    ],
+    "difficulty": "Level 1",
+    "roadmapLevel": 1,
+    "shortDescription": "Master the absolute building blocks of programming. Learn how data is stored, manipulated, and accessed across modern environments.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 1 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Programming Fundamentals: Basics & Syntax is critical for any C++ engineer.",
+    "keyTopics": [
+      "Variables & Data Types",
+      "Operators",
+      "Input / Output",
+      "Type Casting"
+    ],
+    "deepExplanation": "This module provides a deep dive into Programming Fundamentals: Basics & Syntax, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Variables & Data Types",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Core Programming: Control Flow & Logic (C++)",
+    "category": "Fundamentals",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 2",
+      "C++"
+    ],
+    "difficulty": "Level 2",
+    "roadmapLevel": 2,
+    "shortDescription": "Move beyond static code. Learn to make decisions, repeat operations, and structure your logic into reusable functions.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 2 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Core Programming: Control Flow & Logic is critical for any C++ engineer.",
+    "keyTopics": [
+      "If / Else & Switch",
+      "Loops (for, while, do-while)",
+      "Break / Continue",
+      "Functions & Recursion"
+    ],
+    "deepExplanation": "This module provides a deep dive into Core Programming: Control Flow & Logic, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of If / Else & Switch",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Data Structures: Linear & Non-Linear mastery (C++)",
+    "category": "DSA",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 3",
+      "C++"
+    ],
+    "difficulty": "Level 3",
+    "roadmapLevel": 3,
+    "shortDescription": "The backbone of high-performance engineering. Master the organization, retrieval, and storage of data in memory.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 3 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Data Structures: Linear & Non-Linear mastery is critical for any C++ engineer.",
+    "keyTopics": [
+      "1D / 2D Arrays",
+      "Linked List (Singly, Doubly)",
+      "Stack & Queue",
+      "Trees (Binary, BST)",
+      "Graphs (BFS, DFS)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Data Structures: Linear & Non-Linear mastery, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of 1D / 2D Arrays",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Algorithmic Patterns: The Interview Core (C++)",
+    "category": "DSA",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 4",
+      "C++"
+    ],
+    "difficulty": "Level 4",
+    "roadmapLevel": 4,
+    "shortDescription": "Master the patterns that define the top 1% of engineers. Solve complex problems using optimized strategy rather than brute force.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 4 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Algorithmic Patterns: The Interview Core is critical for any C++ engineer.",
+    "keyTopics": [
+      "Two Pointers & Sliding Window",
+      "Binary Search",
+      "Recursion & Backtracking",
+      "Greedy & Dynamic Programming"
+    ],
+    "deepExplanation": "This module provides a deep dive into Algorithmic Patterns: The Interview Core, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Two Pointers & Sliding Window",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Advanced Mastery: Graphs, Tries & Segment Trees (C++)",
+    "category": "Advanced",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 5",
+      "C++"
+    ],
+    "difficulty": "Level 5",
+    "roadmapLevel": 5,
+    "shortDescription": "Push the limits of scalability. Level 5 covers advanced retrieval architectures used at global scale.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 5 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Advanced Mastery: Graphs, Tries & Segment Trees is critical for any C++ engineer.",
+    "keyTopics": [
+      "Dijkstra & Floyd-Warshall",
+      "Trie (Prefix Tree)",
+      "Segment Tree & Range Queries",
+      "Union-Find (DSU)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Advanced Mastery: Graphs, Tries & Segment Trees, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Dijkstra & Floyd-Warshall",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Backend Engineering: Spring Boot & Architecture (C++)",
+    "category": "Backend",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 6",
+      "C++"
+    ],
+    "difficulty": "Level 6",
+    "roadmapLevel": 6,
+    "shortDescription": "Master the world of enterprise development. Build robust, secure, and scalable RESTful microservices with Java and Spring Boot.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 6 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Backend Engineering: Spring Boot & Architecture is critical for any C++ engineer.",
+    "keyTopics": [
+      "REST APIs & HTTP Methods",
+      "Spring Boot Controllers & Services",
+      "SQL (Joins, Indexing)",
+      "JWT & Sessions"
+    ],
+    "deepExplanation": "This module provides a deep dive into Backend Engineering: Spring Boot & Architecture, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of REST APIs & HTTP Methods",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "System Design: Scalability & Architecture (C++)",
+    "category": "Architecture",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 7",
+      "C++"
+    ],
+    "difficulty": "Level 7",
+    "roadmapLevel": 7,
+    "shortDescription": "Design for millions. Learn how to architect systems that are fault-tolerant, horizontally scalable, and ultra-performant.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 7 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering System Design: Scalability & Architecture is critical for any C++ engineer.",
+    "keyTopics": [
+      "Scalability & Caching",
+      "Load Balancing & Rate Limiting",
+      "Microservices basics"
+    ],
+    "deepExplanation": "This module provides a deep dive into System Design: Scalability & Architecture, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Scalability & Caching",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Full-Stack: Modern Web & Mobile UI (C++)",
+    "category": "Frontend",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 8",
+      "C++"
+    ],
+    "difficulty": "Level 8",
+    "roadmapLevel": 8,
+    "shortDescription": "Build the interfaces that connect users to your data. Master React for web and Flutter for high-performance mobile apps.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 8 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Full-Stack: Modern Web & Mobile UI is critical for any C++ engineer.",
+    "keyTopics": [
+      "HTML / CSS / JS Mastery",
+      "React Hooks & State",
+      "Flutter basics for Mobile"
+    ],
+    "deepExplanation": "This module provides a deep dive into Full-Stack: Modern Web & Mobile UI, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of HTML / CSS / JS Mastery",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Professional Workflow: Git, Test & Deploy (C++)",
+    "category": "Engineering",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 9",
+      "C++"
+    ],
+    "difficulty": "Level 9",
+    "roadmapLevel": 9,
+    "shortDescription": "Ship production-ready code. Learn the professional tools and workflows required to collaborate on large-scale engineering teams.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 9 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Professional Workflow: Git, Test & Deploy is critical for any C++ engineer.",
+    "keyTopics": [
+      "Git Branching & Version Control",
+      "Unit Testing basics",
+      "Deployment & CI/CD"
+    ],
+    "deepExplanation": "This module provides a deep dive into Professional Workflow: Git, Test & Deploy, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Git Branching & Version Control",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Capstone: Production Projects Mastery (C++)",
+    "category": "Projects",
+    "language": "C++",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 10",
+      "C++"
+    ],
+    "difficulty": "Level 10",
+    "roadmapLevel": 10,
+    "shortDescription": "The ultimate test of your skills. Build end-to-end industry-level projects that showcase your mastery of the entire stack.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 10 of the C++ Mastery Path.",
+    "coreConcepts": "Mastering Capstone: Production Projects Mastery is critical for any C++ engineer.",
+    "keyTopics": [
+      "Coding Platform implementation",
+      "E-commerce Architecture",
+      "URL Shortener scalability"
+    ],
+    "deepExplanation": "This module provides a deep dive into Capstone: Production Projects Mastery, specifically tailored for the C++ language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Coding Platform implementation",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Programming Fundamentals: Basics & Syntax (JavaScript)",
+    "category": "Fundamentals",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 1",
+      "JavaScript"
+    ],
+    "difficulty": "Level 1",
+    "roadmapLevel": 1,
+    "shortDescription": "Master the absolute building blocks of programming. Learn how data is stored, manipulated, and accessed across modern environments.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 1 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Programming Fundamentals: Basics & Syntax is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "Variables & Data Types",
+      "Operators",
+      "Input / Output",
+      "Type Casting"
+    ],
+    "deepExplanation": "This module provides a deep dive into Programming Fundamentals: Basics & Syntax, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Variables & Data Types",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Core Programming: Control Flow & Logic (JavaScript)",
+    "category": "Fundamentals",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 2",
+      "JavaScript"
+    ],
+    "difficulty": "Level 2",
+    "roadmapLevel": 2,
+    "shortDescription": "Move beyond static code. Learn to make decisions, repeat operations, and structure your logic into reusable functions.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 2 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Core Programming: Control Flow & Logic is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "If / Else & Switch",
+      "Loops (for, while, do-while)",
+      "Break / Continue",
+      "Functions & Recursion"
+    ],
+    "deepExplanation": "This module provides a deep dive into Core Programming: Control Flow & Logic, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of If / Else & Switch",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Data Structures: Linear & Non-Linear mastery (JavaScript)",
+    "category": "DSA",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 3",
+      "JavaScript"
+    ],
+    "difficulty": "Level 3",
+    "roadmapLevel": 3,
+    "shortDescription": "The backbone of high-performance engineering. Master the organization, retrieval, and storage of data in memory.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 3 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Data Structures: Linear & Non-Linear mastery is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "1D / 2D Arrays",
+      "Linked List (Singly, Doubly)",
+      "Stack & Queue",
+      "Trees (Binary, BST)",
+      "Graphs (BFS, DFS)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Data Structures: Linear & Non-Linear mastery, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of 1D / 2D Arrays",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Algorithmic Patterns: The Interview Core (JavaScript)",
+    "category": "DSA",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 4",
+      "JavaScript"
+    ],
+    "difficulty": "Level 4",
+    "roadmapLevel": 4,
+    "shortDescription": "Master the patterns that define the top 1% of engineers. Solve complex problems using optimized strategy rather than brute force.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 4 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Algorithmic Patterns: The Interview Core is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "Two Pointers & Sliding Window",
+      "Binary Search",
+      "Recursion & Backtracking",
+      "Greedy & Dynamic Programming"
+    ],
+    "deepExplanation": "This module provides a deep dive into Algorithmic Patterns: The Interview Core, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Two Pointers & Sliding Window",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Advanced Mastery: Graphs, Tries & Segment Trees (JavaScript)",
+    "category": "Advanced",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 5",
+      "JavaScript"
+    ],
+    "difficulty": "Level 5",
+    "roadmapLevel": 5,
+    "shortDescription": "Push the limits of scalability. Level 5 covers advanced retrieval architectures used at global scale.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 5 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Advanced Mastery: Graphs, Tries & Segment Trees is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "Dijkstra & Floyd-Warshall",
+      "Trie (Prefix Tree)",
+      "Segment Tree & Range Queries",
+      "Union-Find (DSU)"
+    ],
+    "deepExplanation": "This module provides a deep dive into Advanced Mastery: Graphs, Tries & Segment Trees, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Dijkstra & Floyd-Warshall",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Backend Engineering: Spring Boot & Architecture (JavaScript)",
+    "category": "Backend",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 6",
+      "JavaScript"
+    ],
+    "difficulty": "Level 6",
+    "roadmapLevel": 6,
+    "shortDescription": "Master the world of enterprise development. Build robust, secure, and scalable RESTful microservices with Java and Spring Boot.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 6 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Backend Engineering: Spring Boot & Architecture is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "REST APIs & HTTP Methods",
+      "Spring Boot Controllers & Services",
+      "SQL (Joins, Indexing)",
+      "JWT & Sessions"
+    ],
+    "deepExplanation": "This module provides a deep dive into Backend Engineering: Spring Boot & Architecture, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of REST APIs & HTTP Methods",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "System Design: Scalability & Architecture (JavaScript)",
+    "category": "Architecture",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 7",
+      "JavaScript"
+    ],
+    "difficulty": "Level 7",
+    "roadmapLevel": 7,
+    "shortDescription": "Design for millions. Learn how to architect systems that are fault-tolerant, horizontally scalable, and ultra-performant.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 7 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering System Design: Scalability & Architecture is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "Scalability & Caching",
+      "Load Balancing & Rate Limiting",
+      "Microservices basics"
+    ],
+    "deepExplanation": "This module provides a deep dive into System Design: Scalability & Architecture, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Scalability & Caching",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Full-Stack: Modern Web & Mobile UI (JavaScript)",
+    "category": "Frontend",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 8",
+      "JavaScript"
+    ],
+    "difficulty": "Level 8",
+    "roadmapLevel": 8,
+    "shortDescription": "Build the interfaces that connect users to your data. Master React for web and Flutter for high-performance mobile apps.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 8 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Full-Stack: Modern Web & Mobile UI is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "HTML / CSS / JS Mastery",
+      "React Hooks & State",
+      "Flutter basics for Mobile"
+    ],
+    "deepExplanation": "This module provides a deep dive into Full-Stack: Modern Web & Mobile UI, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of HTML / CSS / JS Mastery",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Professional Workflow: Git, Test & Deploy (JavaScript)",
+    "category": "Engineering",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 9",
+      "JavaScript"
+    ],
+    "difficulty": "Level 9",
+    "roadmapLevel": 9,
+    "shortDescription": "Ship production-ready code. Learn the professional tools and workflows required to collaborate on large-scale engineering teams.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 9 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Professional Workflow: Git, Test & Deploy is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "Git Branching & Version Control",
+      "Unit Testing basics",
+      "Deployment & CI/CD"
+    ],
+    "deepExplanation": "This module provides a deep dive into Professional Workflow: Git, Test & Deploy, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Git Branching & Version Control",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  },
+  {
+    "title": "Capstone: Production Projects Mastery (JavaScript)",
+    "category": "Projects",
+    "language": "JavaScript",
+    "imageUrl": "/card-art/universal.png",
+    "tags": [
+      "Roadmap",
+      "Level 10",
+      "JavaScript"
+    ],
+    "difficulty": "Level 10",
+    "roadmapLevel": 10,
+    "shortDescription": "The ultimate test of your skills. Build end-to-end industry-level projects that showcase your mastery of the entire stack.",
+    "readTime": "45 min",
+    "introduction": "Welcome to Step 10 of the JavaScript Mastery Path.",
+    "coreConcepts": "Mastering Capstone: Production Projects Mastery is critical for any JavaScript engineer.",
+    "keyTopics": [
+      "Coding Platform implementation",
+      "E-commerce Architecture",
+      "URL Shortener scalability"
+    ],
+    "deepExplanation": "This module provides a deep dive into Capstone: Production Projects Mastery, specifically tailored for the JavaScript language context.",
+    "codeExample": "# Standard implementation for this Level\nvoid execute() {\n  // Logic goes here\n}",
+    "realWorldUse": "Widely used in production-grade applications across all major tech companies.",
+    "keyTakeaways": [
+      "Strong Foundation",
+      "Optimized Thinking",
+      "Scalable Patterns"
+    ],
+    "practiceQuestions": [
+      "Implement a basic version of Coding Platform implementation",
+      "Explain the trade-offs of this Level's patterns."
+    ]
+  }
+]

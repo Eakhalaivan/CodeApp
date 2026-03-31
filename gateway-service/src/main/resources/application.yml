@@ -1,0 +1,39 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods: "*"
+            allowedHeaders: "*"
+      routes:
+        - id: auth-service
+          uri: lb://auth-service
+          predicates:
+            - Path=/api/auth/**
+        - id: problem-service
+          uri: lb://problem-service
+          predicates:
+            - Path=/api/problems/**, /api/admin/problems/**, /api/materials/**
+        - id: submission-service
+          uri: lb://submission-service
+          predicates:
+            - Path=/api/submissions/**
+        - id: execution-service
+          uri: lb://execution-service
+          predicates:
+            - Path=/api/execution/**
+
+eureka:
+  instance:
+    prefer-ip-address: true
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

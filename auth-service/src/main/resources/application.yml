@@ -1,0 +1,36 @@
+server:
+  port: 8081
+
+logging:
+  level:
+    org.springframework.security: TRACE
+
+spring:
+  application:
+    name: auth-service
+  datasource:
+    url: jdbc:mysql://gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test?sslMode=VERIFY_IDENTITY&enabledTLSProtocols=TLSv1.2,TLSv1.3
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: 4AVBVdYnzdCVHdX.root
+    password: Ct52esMWN5MtW0Fi
+    hikari:
+      maximum-pool-size: 10
+      connection-timeout: 30000
+      idle-timeout: 60000
+      max-lifetime: 180000
+      keepalive-time: 30000
+      connection-test-query: SELECT 1
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+jwt:
+  secret: verysecretkeythatisatleast32characterslong
+  expiration: 3600000

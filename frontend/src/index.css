@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700;800;900&family=Outfit:wght@500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--bg);
+  --color-foreground: var(--fg);
+  --color-card: var(--card-bg);
+  --color-card-foreground: var(--fg);
+  --color-card-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-from: var(--primary);
+  --color-primary-to: var(--primary-accent);
+  --color-primary-hover: var(--primary-hover);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-fg);
+  --color-accent: var(--accent);
+  --color-accent-low: var(--accent-low);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-fg);
+
+  --font-sans: "Poppins", "Inter", system-ui, sans-serif;
+  --font-display: "Poppins", "Outfit", "Inter", sans-serif;
+
+  --animate-pulse-slow: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-float: float 6s ease-in-out infinite;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+}
+
+@layer base {
+  :root {
+    --bg: #0f172a;
+    --fg: #f8fafc;
+    --card-bg: #1e293b;
+    --border: #334155;
+    --primary: #f97316;
+    --primary-accent: #fbbf24;
+    --primary-hover: #ea580c;
+    --secondary: #334155;
+    --secondary-fg: #94a3b8;
+    --accent: #22d3ee;
+    --accent-low: #0891b2;
+    --muted: #1e293b;
+    --muted-fg: #94a3b8;
+    
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  }
+
+  /* Solar Flare (Light Mode) */
+  body.light {
+    --bg: #f8fafc;
+    --fg: #0f172a;
+    --card-bg: #ffffff;
+    --border: #e2e8f0;
+    --primary: #f59e0b;
+    --primary-accent: #fbbf24;
+    --primary-hover: #d97706;
+    --secondary: #e2e8f0;
+    --secondary-fg: #64748b;
+    --accent: #0ea5e9;
+    --accent-low: #0284c7;
+    --muted: #f1f5f9;
+    --muted-fg: #64748b;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased selection:bg-rose-200 selection:text-rose-900;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card/40 backdrop-blur-xl border border-card-border overflow-hidden transition-all duration-300;
+  }
+
+  .nav-link {
+    @apply relative py-2 text-sm font-medium text-secondary-foreground hover:text-foreground transition-all duration-300;
+  }
+
+  .nav-link::after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-0 h-0.5 bg-primary transition-all duration-300;
+  }
+
+  .nav-link:hover::after {
+    @apply w-full;
+  }
+
+  .btn-gradient {
+    @apply bg-gradient-to-r from-primary-from to-primary-to text-white shadow-lg shadow-primary/20;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-foreground via-foreground to-secondary-foreground bg-clip-text text-transparent;
+  }
+
+  .hero-gradient {
+    @apply bg-gradient-to-r from-orange-500 to-amber-500 bg-clip-text text-transparent;
+  }
+}

@@ -1,0 +1,55 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.tar.gz
+*.zip
+*.jks
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+auth.log
+eureka.log
+execution.log
+frontend.log
+gateway.log
+problem.log
+submission.log
+problem_boot.log
+problem_debug.log
+problem_final_final.log
+problem_fresh.log
+problem_fresh_v2.log
+problem_fresh_v3.log
+problem_seeding.log
+problem_seeding_v2.log
+frontend_restart.log
+startup.log
+startup2.log
+startup3.log
+
+# Other
+infrastructure/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

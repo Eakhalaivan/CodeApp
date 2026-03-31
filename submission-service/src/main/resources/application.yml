@@ -1,0 +1,28 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: submission-service
+  datasource:
+    url: jdbc:mysql://gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test?sslMode=VERIFY_IDENTITY&enabledTLSProtocols=TLSv1.2,TLSv1.3
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: 4AVBVdYnzdCVHdX.root
+    password: Ct52esMWN5MtW0Fi
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        hikari:
+          maximum-pool-size: 20
+          connection-timeout: 60000
+          idle-timeout: 600000
+          max-lifetime: 1800000
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
